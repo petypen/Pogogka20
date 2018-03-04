@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="812a60dc-5a3c-4315-a8a2-a0a5f4c8deae" configVersion="1e71f9d641f7d1a80030fd84d815239a542d3bf8"/>
+		<Metadata name="Catalog.ВидыКонтактнойИнформации" id="a0436a1f-0dec-4751-be6f-8ceb103ad464" configVersion="0086f0d1f36ce9c072d178d50abb9e27f7d25040"/>
+		<Metadata name="Catalog.ВидыКонтактнойИнформации.Predefined" id="a0436a1f-0dec-4751-be6f-8ceb103ad464.1c" configVersion="25bb17233339d95ee294af06c52db460b553bbee"/>
+		<Metadata name="Catalog.Организации" id="27f930c8-e383-4214-98f9-3b90a572f140" configVersion="3bbebb9f57eedbdf770b50e2c985ea5b2e6a91a4"/>
+		<Metadata name="CommonForm.ИнформационнаяПанель" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a" configVersion="a4929df6395f93a28734d1270236a511bd6e9163"/>
+		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="24f0306454c713125b114c1c948ce20bd4940da6"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="2f9f8e72513022e60b1d7d128a533176f0096830"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="fab262f27e5407d54a57960790d6850fb06c0286"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер" id="e2826258-fd37-46c3-bf61-1b6552e78769" configVersion="981bdc7989c45f8c488d1dc3766a409d9f8beea1"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер.Module" id="e2826258-fd37-46c3-bf61-1b6552e78769.0" configVersion="7e733bbb553a6a1e3e96d0080d04010f77ff8bfb"/>
+		<Metadata name="CommonModule.ИнформационнаяПанель" id="befddcfa-2b57-4e95-a484-ab9869680244" configVersion="b16fa88f4a636f342eaf4174d56bf209e41cc89d"/>
+		<Metadata name="CommonModule.ИнформационнаяПанель.Module" id="befddcfa-2b57-4e95-a484-ab9869680244.0" configVersion="c66b551a7cf3774ca293d8e1c36908052899ce55"/>
+		<Metadata name="CommonModule.Погод20_ОбщийМодуль" id="6558913e-a248-4d79-b17e-6e96ceec8141" configVersion="ec601b931f7ef16d4ac17264bd18469f3b9bc4a5"/>
+		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="843358f147b93afede09447f51c441c3c9b30240"/>
+		<Metadata name="CommonPicture.ДлительнаяОперация48" id="c174fffb-a8ef-41ab-9262-59b75dd8b3c4" configVersion="b9d279abb03dd98e91f01b70c3921e46291a0735"/>
+		<Metadata name="CommonPicture.КоллекцияПереключателейИнформационнойПанели" id="c5ec943b-8152-4792-9760-85b9aefc2909" configVersion="b5c531a8527e25e2fbbdc6653b96492f5ce43d07"/>
+		<Metadata name="CommonPicture.КоллекцияСообщенийСервиса" id="bb1da703-0f73-47f1-a767-9401964f3d2d" configVersion="d9d14cef8375382cebd98dc1b4da9bd359e1f79b"/>
+		<Metadata name="CommonPicture.НезавершившаясяПроверка" id="54db8239-1377-4138-bf21-4b9e1e8f3f02" configVersion="d2e3a627ffe2618b9987decea6e8b445bc93868c"/>
+		<Metadata name="CommonPicture.ПодатьИдею" id="4c5fc921-76b8-46f2-80ab-d55ffbd8c201" configVersion="422d119707ba22c1d6b2934f0e56df5280108a72"/>
+		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="795061d5-3db6-4634-ad6c-ad948c266c6e" configVersion="35ecd928a98c2d0dda8d67f1b5a9da94fe9294f4"/>
+		<Metadata name="CommonPicture.СообщениеВТехПоддержку" id="a58ba866-b767-4fec-8d1b-2b0773257a0b" configVersion="521e4a0bafafbd63b3b60fd047106fcab6fc8442"/>
+		<Metadata name="CommonPicture.ФорумСервиса" id="54cff716-9d7b-4994-8626-53f7107023ce" configVersion="1b6268f19630f3984181223d0f8791283b505d1b"/>
+		<Metadata name="Configuration.POGODKA20" id="c677873b-b3ee-47d9-92d6-059ca4d9dd09" configVersion="8224fd4fdd426ba4fbb2425cfe1f4953f7fd9baa"/>
+		<Metadata name="Constant.ИспользоватьНесколькоОрганизаций" id="463e94f7-1911-43d1-be9a-4dcc054a77b7" configVersion="9f66f7dc5f022ad1868b67639195f00a3c3750f9"/>
+		<Metadata name="Constant.НеИспользоватьНесколькоОрганизаций" id="258a0a2f-e959-4514-b8f0-ec6f61fa5109" configVersion="36fcbe08a5439cf15a21d2a609bc7d642b6d0ffe"/>
+		<Metadata name="FunctionalOption.ИспользоватьНесколькоОрганизацийБухгалтерскийУчет" id="02090a6d-ee63-4d6c-9903-0430567e585e" configVersion="3ce3406a9d428167d8fb1a5d30cbd8df369b3770"/>
+		<Metadata name="FunctionalOption.НеИспользоватьНесколькоОрганизацийБухгалтерскийУчет" id="16b9f2f8-3742-4eb5-9a37-120d14d382b7" configVersion="e529fa8c01977bf25d68c6f3de2410487df90351"/>
+		<Metadata name="InformationRegister.КурсыВалют" id="bf53518a-f711-4e6b-ba98-a7fb99e92202" configVersion="249811e27a4c22b0778c817e0f4afa9608458d68">
+			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="3cc50e98-9a28-4abd-9887-e2d9dc8fdf5a"/>
+			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="c85032df-78bc-4144-bddc-f545c655a48f"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="1d032465-cc58-4c9e-8c67-ccff24bfe1f3" configVersion="bc470c54076bddb8faa47c9c3a6f71145421b4d0"/>
+		<Metadata name="StyleItem.ЦветГиперссылкиБРО" id="dcff6f6d-2463-4a2c-8199-21dee6aaa7ee" configVersion="2cd894da4d95d0db4b3164d0bf795a39c746ca1f"/>
+		<Metadata name="StyleItem.ЦветЗаголовкаИнформационнойПанели" id="f49f5f1b-0271-4cf2-b946-7cc6d80406af" configVersion="e01d82cfe1a13fbd577e8f04f87bc89d96e003d0"/>
+		<Metadata name="StyleItem.ЦветФонаБлоковИнформационнойПанели" id="7572c669-8c71-4d72-b866-8eaaccfeec09" configVersion="e914bcd7ed4b7058634af13ee72dedcf5152d773"/>
+		<Metadata name="StyleItem.ШрифтЗаголовкаИнформационнойПанели" id="b8783cc5-d304-411c-bf5e-5e80ca39c998" configVersion="abbef5173dca7de23f279d904c51f467f806be06"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

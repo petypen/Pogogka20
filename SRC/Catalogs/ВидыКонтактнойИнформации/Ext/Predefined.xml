@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="16e7898a-25ac-40d2-a3a1-f7a73c93e8ea">
+		<Name>СправочникОрганизации</Name>
+		<Code/>
+		<Description>Контактная информация справочника "Организации"</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="03d85d4d-c1b8-4ed6-8c8f-69e09a023411">
+				<Name>ФактАдресОрганизации</Name>
+				<Code/>
+				<Description>Фактический адрес</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="8df5e1e9-67ff-45fe-96af-15f999d74028">
+				<Name>ЮрАдресОрганизации</Name>
+				<Code/>
+				<Description>Юридический адрес</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+</PredefinedData>
