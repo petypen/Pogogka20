@@ -7,8 +7,8 @@
 		<Metadata name="Catalog.Организации" id="27f930c8-e383-4214-98f9-3b90a572f140" configVersion="3bbebb9f57eedbdf770b50e2c985ea5b2e6a91a4"/>
 		<Metadata name="CommonForm.ИнформационнаяПанель" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a" configVersion="a4929df6395f93a28734d1270236a511bd6e9163"/>
 		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="24f0306454c713125b114c1c948ce20bd4940da6"/>
-		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="2f9f8e72513022e60b1d7d128a533176f0096830"/>
-		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="fab262f27e5407d54a57960790d6850fb06c0286"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="a02a4a393bbfdd7bd3c9986ac10eb250e067eed4"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="8b8ca13ccf9bdef90472cd32fa76ed181785516e"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер" id="e2826258-fd37-46c3-bf61-1b6552e78769" configVersion="981bdc7989c45f8c488d1dc3766a409d9f8beea1"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер.Module" id="e2826258-fd37-46c3-bf61-1b6552e78769.0" configVersion="7e733bbb553a6a1e3e96d0080d04010f77ff8bfb"/>
 		<Metadata name="CommonModule.ИнформационнаяПанель" id="befddcfa-2b57-4e95-a484-ab9869680244" configVersion="b16fa88f4a636f342eaf4174d56bf209e41cc89d"/>
