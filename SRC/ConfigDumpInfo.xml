@@ -6,15 +6,15 @@
 		<Metadata name="Catalog.ВидыКонтактнойИнформации.Predefined" id="a0436a1f-0dec-4751-be6f-8ceb103ad464.1c" configVersion="25bb17233339d95ee294af06c52db460b553bbee"/>
 		<Metadata name="Catalog.Организации" id="27f930c8-e383-4214-98f9-3b90a572f140" configVersion="3bbebb9f57eedbdf770b50e2c985ea5b2e6a91a4"/>
 		<Metadata name="CommonForm.ИнформационнаяПанель" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a" configVersion="a4929df6395f93a28734d1270236a511bd6e9163"/>
-		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="24f0306454c713125b114c1c948ce20bd4940da6"/>
-		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="a02a4a393bbfdd7bd3c9986ac10eb250e067eed4"/>
-		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="96de9bef742805a4f11396174c1768851442af48"/>
+		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="a09727bbea972523d29f571e5541b5fd522ac8bb"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="2f9f8e72513022e60b1d7d128a533176f0096830"/>
+		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="f548235101ba8570f97013a55b4be73217372839"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер" id="e2826258-fd37-46c3-bf61-1b6552e78769" configVersion="981bdc7989c45f8c488d1dc3766a409d9f8beea1"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер.Module" id="e2826258-fd37-46c3-bf61-1b6552e78769.0" configVersion="7e733bbb553a6a1e3e96d0080d04010f77ff8bfb"/>
 		<Metadata name="CommonModule.ИнформационнаяПанель" id="befddcfa-2b57-4e95-a484-ab9869680244" configVersion="b16fa88f4a636f342eaf4174d56bf209e41cc89d"/>
 		<Metadata name="CommonModule.ИнформационнаяПанель.Module" id="befddcfa-2b57-4e95-a484-ab9869680244.0" configVersion="c66b551a7cf3774ca293d8e1c36908052899ce55"/>
 		<Metadata name="CommonModule.Погод20_ОбщийМодуль" id="6558913e-a248-4d79-b17e-6e96ceec8141" configVersion="ec601b931f7ef16d4ac17264bd18469f3b9bc4a5"/>
-		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="d10d6f8a590db14799c18d5ce153089f25592f2d"/>
+		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="bc17abb925dc01848a584266ff1f54d54d9fd0c8"/>
 		<Metadata name="CommonPicture.ДлительнаяОперация48" id="c174fffb-a8ef-41ab-9262-59b75dd8b3c4" configVersion="b9d279abb03dd98e91f01b70c3921e46291a0735"/>
 		<Metadata name="CommonPicture.КоллекцияПереключателейИнформационнойПанели" id="c5ec943b-8152-4792-9760-85b9aefc2909" configVersion="b5c531a8527e25e2fbbdc6653b96492f5ce43d07"/>
 		<Metadata name="CommonPicture.КоллекцияСообщенийСервиса" id="bb1da703-0f73-47f1-a767-9401964f3d2d" configVersion="d9d14cef8375382cebd98dc1b4da9bd359e1f79b"/>
@@ -23,7 +23,7 @@
 		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="795061d5-3db6-4634-ad6c-ad948c266c6e" configVersion="35ecd928a98c2d0dda8d67f1b5a9da94fe9294f4"/>
 		<Metadata name="CommonPicture.СообщениеВТехПоддержку" id="a58ba866-b767-4fec-8d1b-2b0773257a0b" configVersion="521e4a0bafafbd63b3b60fd047106fcab6fc8442"/>
 		<Metadata name="CommonPicture.ФорумСервиса" id="54cff716-9d7b-4994-8626-53f7107023ce" configVersion="1b6268f19630f3984181223d0f8791283b505d1b"/>
-		<Metadata name="Configuration.POGODKA20" id="c677873b-b3ee-47d9-92d6-059ca4d9dd09" configVersion="8224fd4fdd426ba4fbb2425cfe1f4953f7fd9baa"/>
+		<Metadata name="Configuration.POGODKA20" id="c677873b-b3ee-47d9-92d6-059ca4d9dd09" configVersion="c8f859b41732fad5ae5c37269af45096625055dd"/>
 		<Metadata name="Constant.ИспользоватьНесколькоОрганизаций" id="463e94f7-1911-43d1-be9a-4dcc054a77b7" configVersion="9f66f7dc5f022ad1868b67639195f00a3c3750f9"/>
 		<Metadata name="Constant.НеИспользоватьНесколькоОрганизаций" id="258a0a2f-e959-4514-b8f0-ec6f61fa5109" configVersion="36fcbe08a5439cf15a21d2a609bc7d642b6d0ffe"/>
 		<Metadata name="FunctionalOption.ИспользоватьНесколькоОрганизацийБухгалтерскийУчет" id="02090a6d-ee63-4d6c-9903-0430567e585e" configVersion="3ce3406a9d428167d8fb1a5d30cbd8df369b3770"/>
