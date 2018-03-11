@@ -14,16 +14,56 @@
 		<Metadata name="CommonModule.ИнформационнаяПанель" id="befddcfa-2b57-4e95-a484-ab9869680244" configVersion="b16fa88f4a636f342eaf4174d56bf209e41cc89d"/>
 		<Metadata name="CommonModule.ИнформационнаяПанель.Module" id="befddcfa-2b57-4e95-a484-ab9869680244.0" configVersion="c66b551a7cf3774ca293d8e1c36908052899ce55"/>
 		<Metadata name="CommonModule.Погод20_ОбщийМодуль" id="6558913e-a248-4d79-b17e-6e96ceec8141" configVersion="ec601b931f7ef16d4ac17264bd18469f3b9bc4a5"/>
-		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="bc17abb925dc01848a584266ff1f54d54d9fd0c8"/>
+		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="b5cd32c6373c390a9b95baaf9179ce5e51dd9606"/>
 		<Metadata name="CommonPicture.ДлительнаяОперация48" id="c174fffb-a8ef-41ab-9262-59b75dd8b3c4" configVersion="b9d279abb03dd98e91f01b70c3921e46291a0735"/>
 		<Metadata name="CommonPicture.КоллекцияПереключателейИнформационнойПанели" id="c5ec943b-8152-4792-9760-85b9aefc2909" configVersion="b5c531a8527e25e2fbbdc6653b96492f5ce43d07"/>
 		<Metadata name="CommonPicture.КоллекцияСообщенийСервиса" id="bb1da703-0f73-47f1-a767-9401964f3d2d" configVersion="d9d14cef8375382cebd98dc1b4da9bd359e1f79b"/>
 		<Metadata name="CommonPicture.НезавершившаясяПроверка" id="54db8239-1377-4138-bf21-4b9e1e8f3f02" configVersion="d2e3a627ffe2618b9987decea6e8b445bc93868c"/>
+		<Metadata name="CommonPicture.Погод20_000" id="b968f50a-5754-43ef-a76f-288a3ef93a1a" configVersion="d28fe98d790dd15ddba8966abb94ecba0464cc75"/>
+		<Metadata name="CommonPicture.Погод20_000.Picture" id="b968f50a-5754-43ef-a76f-288a3ef93a1a.0" configVersion="b527014f1c594b10a6852c9c3f8884e4f21ab685"/>
+		<Metadata name="CommonPicture.Погод20_101" id="6d55808d-bd2b-4803-beb4-43348c08af26" configVersion="1bf714d180b3f63602e786eab3217477e8eef2ae"/>
+		<Metadata name="CommonPicture.Погод20_101.Picture" id="6d55808d-bd2b-4803-beb4-43348c08af26.0" configVersion="d8bd9626f09717376b28e0b7eeca5fa667d49fac"/>
+		<Metadata name="CommonPicture.Погод20_102" id="7b532464-2b60-4bc7-953f-dc966cd3d0de" configVersion="17cd19ff5211bc6b6ebc5146e2b1ae37459a4bfb"/>
+		<Metadata name="CommonPicture.Погод20_102.Picture" id="7b532464-2b60-4bc7-953f-dc966cd3d0de.0" configVersion="c6e8586991f82ecb839bd81a529cb501f7fc9dbd"/>
+		<Metadata name="CommonPicture.Погод20_103" id="1d481b32-6796-45e4-a379-0300526c2e1e" configVersion="2033acd86f646d7716e76c11f4f74c8aef408257"/>
+		<Metadata name="CommonPicture.Погод20_103.Picture" id="1d481b32-6796-45e4-a379-0300526c2e1e.0" configVersion="a89a033dac90155143c4acfbaeb0220bc971c7d9"/>
+		<Metadata name="CommonPicture.Погод20_104" id="1e977267-8abb-4599-9eb6-b1e5028c5661" configVersion="4d3d43560ea69d45c8be8b009f9f8890ebd533dc"/>
+		<Metadata name="CommonPicture.Погод20_104.Picture" id="1e977267-8abb-4599-9eb6-b1e5028c5661.0" configVersion="ce10977fa9f2e54328b14f8750eeb695feb628c2"/>
+		<Metadata name="CommonPicture.Погод20_110" id="ce8d076c-7db7-4c0d-a0ff-fe8ecd225a62" configVersion="1a7cfea6f5019bc748490a213f6bdfc9c0eabef0"/>
+		<Metadata name="CommonPicture.Погод20_110.Picture" id="ce8d076c-7db7-4c0d-a0ff-fe8ecd225a62.0" configVersion="dfe4d768c9656e0550c7a840cce211bc12b88989"/>
+		<Metadata name="CommonPicture.Погод20_111" id="16288e5b-1ced-422f-ad1d-7c387985b292" configVersion="4f3e40f6d91ff7dd37cb47562bd0c34d398cea81"/>
+		<Metadata name="CommonPicture.Погод20_111.Picture" id="16288e5b-1ced-422f-ad1d-7c387985b292.0" configVersion="bf0dfd5891afe2e0a7e52c141cf2801b894f3579"/>
+		<Metadata name="CommonPicture.Погод20_120" id="87ecc54d-d7e1-4133-8a96-40e00f8208d9" configVersion="3f7daccf67e2f58743759001b1c0bbdd34ab397c"/>
+		<Metadata name="CommonPicture.Погод20_120.Picture" id="87ecc54d-d7e1-4133-8a96-40e00f8208d9.0" configVersion="2fa6b179dee90c11b738972ad9545caa82a887e9"/>
+		<Metadata name="CommonPicture.Погод20_130" id="d95a595e-5c0b-4ca9-9f11-6662e6e34587" configVersion="e0a7e1519f7b2a9ba356f39e694a2fa2a4a3339a"/>
+		<Metadata name="CommonPicture.Погод20_130.Picture" id="d95a595e-5c0b-4ca9-9f11-6662e6e34587.0" configVersion="5c959b4a9ad04d8ff2b182e0bd10c01ee387b4c5"/>
+		<Metadata name="CommonPicture.Погод20_140" id="fd38db11-8093-42e0-b87a-ec55a304f581" configVersion="89823e36213b2f3cf4bf2cd88936f1c71086f409"/>
+		<Metadata name="CommonPicture.Погод20_140.Picture" id="fd38db11-8093-42e0-b87a-ec55a304f581.0" configVersion="61c2272455553466f6c320516255e475c9d74218"/>
+		<Metadata name="CommonPicture.Погод20_201" id="73ab5a00-4261-4ffd-9ab8-5569c5829c02" configVersion="1c2aa79fbc94f980ca7660741cdf52a1b373bf14"/>
+		<Metadata name="CommonPicture.Погод20_201.Picture" id="73ab5a00-4261-4ffd-9ab8-5569c5829c02.0" configVersion="9de679e9ba2da0fbc4cc9bba7837fc204f7a4fe5"/>
+		<Metadata name="CommonPicture.Погод20_202" id="b7ac7f30-f439-42d1-a78c-3246c9ebc3b8" configVersion="f92d10cfb21b92f7e5760401203a1126fbf24425"/>
+		<Metadata name="CommonPicture.Погод20_202.Picture" id="b7ac7f30-f439-42d1-a78c-3246c9ebc3b8.0" configVersion="20e2db2da1c7d5225e76506dcff7d2c3ad513a38"/>
+		<Metadata name="CommonPicture.Погод20_203" id="b5b849ce-852a-4bec-913f-ce9b8373a188" configVersion="e05907b42e6d21d4b070dcad6a8691f4e1e65e56"/>
+		<Metadata name="CommonPicture.Погод20_203.Picture" id="b5b849ce-852a-4bec-913f-ce9b8373a188.0" configVersion="7a8ba0c835b454cf935075e849b4d0061e29120b"/>
+		<Metadata name="CommonPicture.Погод20_204" id="d80cc951-7ec4-44b8-a191-965ad5720228" configVersion="7120d87ab24ddaa4809aeff0c2a28c4c9249c199"/>
+		<Metadata name="CommonPicture.Погод20_204.Picture" id="d80cc951-7ec4-44b8-a191-965ad5720228.0" configVersion="ce10977fa9f2e54328b14f8750eeb695feb628c2"/>
+		<Metadata name="CommonPicture.Погод20_210" id="128f6494-90b0-4841-a8fa-d5f43bcace09" configVersion="357ab5a22e8c1395ef112ddbd07a5b428c71b757"/>
+		<Metadata name="CommonPicture.Погод20_210.Picture" id="128f6494-90b0-4841-a8fa-d5f43bcace09.0" configVersion="c8647899ace3e60d8d68a626d5402169dbc57005"/>
+		<Metadata name="CommonPicture.Погод20_211" id="070814bf-9817-466a-b949-9b2977394de5" configVersion="10f628cc3a0595c00ceadb0a8c598c90fab93a50"/>
+		<Metadata name="CommonPicture.Погод20_211.Picture" id="070814bf-9817-466a-b949-9b2977394de5.0" configVersion="814ec0df8abee6104022cd4210469f5543d5f6ff"/>
+		<Metadata name="CommonPicture.Погод20_220" id="1bed5db9-15fd-4a44-bd4e-2dd37cdec4c4" configVersion="ada877720a495df7d1915cb7bd840d5f0c638550"/>
+		<Metadata name="CommonPicture.Погод20_220.Picture" id="1bed5db9-15fd-4a44-bd4e-2dd37cdec4c4.0" configVersion="0adc5ca247b18e7dd2c359037070b121434c82fd"/>
+		<Metadata name="CommonPicture.Погод20_230" id="2be0cfcc-b013-40a8-99d8-8ebdaddf095b" configVersion="22046786bc5c48e5ae122b0d33cbf52856497972"/>
+		<Metadata name="CommonPicture.Погод20_230.Picture" id="2be0cfcc-b013-40a8-99d8-8ebdaddf095b.0" configVersion="bcbb902b48115bdb0a8a10ec3a81c4ec52b5671b"/>
+		<Metadata name="CommonPicture.Погод20_240" id="00834bf6-36ca-47c5-a798-6c2ebcbc658f" configVersion="a3ab235bb74dbf19c438d09ea950197da806b309"/>
+		<Metadata name="CommonPicture.Погод20_240.Picture" id="00834bf6-36ca-47c5-a798-6c2ebcbc658f.0" configVersion="6fff7d645bf7d58200376fb99c41c550a97943b1"/>
 		<Metadata name="CommonPicture.ПодатьИдею" id="4c5fc921-76b8-46f2-80ab-d55ffbd8c201" configVersion="422d119707ba22c1d6b2934f0e56df5280108a72"/>
 		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="795061d5-3db6-4634-ad6c-ad948c266c6e" configVersion="35ecd928a98c2d0dda8d67f1b5a9da94fe9294f4"/>
 		<Metadata name="CommonPicture.СообщениеВТехПоддержку" id="a58ba866-b767-4fec-8d1b-2b0773257a0b" configVersion="521e4a0bafafbd63b3b60fd047106fcab6fc8442"/>
 		<Metadata name="CommonPicture.ФорумСервиса" id="54cff716-9d7b-4994-8626-53f7107023ce" configVersion="1b6268f19630f3984181223d0f8791283b505d1b"/>
-		<Metadata name="Configuration.POGODKA20" id="c677873b-b3ee-47d9-92d6-059ca4d9dd09" configVersion="c8f859b41732fad5ae5c37269af45096625055dd"/>
+		<Metadata name="CommonTemplate.Погод20_WeatherIcons" id="69d2fd0e-adf6-446f-916d-f5a305fde512" configVersion="e34b651f6ffe7f2bed7d3ced15628f67e2afa92c"/>
+		<Metadata name="CommonTemplate.Погод20_WeatherIcons.Template" id="69d2fd0e-adf6-446f-916d-f5a305fde512.0" configVersion="099a76b5986233892467712ea5def1c4c0733a8f"/>
+		<Metadata name="Configuration.POGODKA20" id="c677873b-b3ee-47d9-92d6-059ca4d9dd09" configVersion="121f3bd26e5bb2831207354f95a0a9742d737f80"/>
 		<Metadata name="Constant.ИспользоватьНесколькоОрганизаций" id="463e94f7-1911-43d1-be9a-4dcc054a77b7" configVersion="9f66f7dc5f022ad1868b67639195f00a3c3750f9"/>
 		<Metadata name="Constant.НеИспользоватьНесколькоОрганизаций" id="258a0a2f-e959-4514-b8f0-ec6f61fa5109" configVersion="36fcbe08a5439cf15a21d2a609bc7d642b6d0ffe"/>
 		<Metadata name="FunctionalOption.ИспользоватьНесколькоОрганизацийБухгалтерскийУчет" id="02090a6d-ee63-4d6c-9903-0430567e585e" configVersion="3ce3406a9d428167d8fb1a5d30cbd8df369b3770"/>
