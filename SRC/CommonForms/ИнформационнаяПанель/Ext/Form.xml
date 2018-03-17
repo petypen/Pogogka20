@@ -2335,6 +2335,7 @@
 																			</Title>
 																			<TitleLocation>None</TitleLocation>
 																			<ToolTipRepresentation>None</ToolTipRepresentation>
+																			<Width>2</Width>
 																			<MaxWidth>2</MaxWidth>
 																			<Height>3</Height>
 																			<MaxHeight>2</MaxHeight>
@@ -2379,7 +2380,7 @@
 																		</v8:item>
 																	</ToolTip>
 																	<Group>Vertical</Group>
-																	<VerticalSpacing>None</VerticalSpacing>
+																	<VerticalSpacing>Single</VerticalSpacing>
 																	<Representation>None</Representation>
 																	<ShowTitle>false</ShowTitle>
 																	<ExtendedTooltip name="Группа_ПраваяРасширеннаяПодсказка" id="2276"/>
@@ -2398,7 +2399,7 @@
 																				</v8:item>
 																			</ToolTip>
 																			<ToolTipRepresentation>None</ToolTipRepresentation>
-																			<Group>Vertical</Group>
+																			<Group>Horizontal</Group>
 																			<VerticalSpacing>Half</VerticalSpacing>
 																			<Representation>None</Representation>
 																			<ShowTitle>false</ShowTitle>
@@ -2407,51 +2408,38 @@
 																				<LabelField name="ПОЛЬЗ0_ВремяСуток1" id="2314">
 																					<DataPath>ПОЛЬЗ0_ВремяСуток1</DataPath>
 																					<TitleLocation>None</TitleLocation>
+																					<HorizontalAlign>Left</HorizontalAlign>
+																					<Width>6</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
 																					<Font ref="style:NormalTextFont" kind="StyleItem"/>
 																					<ContextMenu name="ПОЛЬЗ0_ВремяСуток1КонтекстноеМеню" id="2315"/>
 																					<ExtendedTooltip name="ПОЛЬЗ0_ВремяСуток1РасширеннаяПодсказка" id="2316"/>
 																				</LabelField>
-																				<UsualGroup name="Группа_ДанныеПрогноза1" id="2343">
-																					<Title>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Данные прогноза</v8:content>
-																						</v8:item>
-																					</Title>
-																					<ToolTip>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Группа данные прогноза1</v8:content>
-																						</v8:item>
-																					</ToolTip>
-																					<Group>Horizontal</Group>
-																					<Representation>None</Representation>
-																					<ShowTitle>false</ShowTitle>
-																					<ExtendedTooltip name="Группа_ДанныеПрогноза1РасширеннаяПодсказка" id="2344"/>
-																					<ChildItems>
-																						<PictureField name="ПОЛЬЗ0_ПрогнозКартинка1" id="2323">
-																							<DataPath>ПОЛЬЗ0_ПрогнозКартинка1</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<Width>4</Width>
-																							<Height>1</Height>
-																							<HorizontalStretch>false</HorizontalStretch>
-																							<VerticalStretch>false</VerticalStretch>
-																							<PictureSize>Proportionally</PictureSize>
-																							<Border width="1">
-																								<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
-																							</Border>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка1КонтекстноеМеню" id="2324"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка1РасширеннаяПодсказка" id="2325"/>
-																						</PictureField>
-																						<LabelField name="ПОЛЬЗ0_ПрогнозТемпература1" id="2349">
-																							<DataPath>ПОЛЬЗ0_ПрогнозТемпература1</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<ToolTipRepresentation>None</ToolTipRepresentation>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература1КонтекстноеМеню" id="2350"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература1РасширеннаяПодсказка" id="2351"/>
-																						</LabelField>
-																					</ChildItems>
-																				</UsualGroup>
+																				<PictureField name="ПОЛЬЗ0_ПрогнозКартинка1" id="2323">
+																					<DataPath>ПОЛЬЗ0_ПрогнозКартинка1</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<Width>4</Width>
+																					<Height>1</Height>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
+																					<PictureSize>Proportionally</PictureSize>
+																					<Border width="1">
+																						<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
+																					</Border>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка1КонтекстноеМеню" id="2324"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка1РасширеннаяПодсказка" id="2325"/>
+																				</PictureField>
+																				<LabelField name="ПОЛЬЗ0_ПрогнозТемпература1" id="2349">
+																					<DataPath>ПОЛЬЗ0_ПрогнозТемпература1</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<ToolTipRepresentation>None</ToolTipRepresentation>
+																					<HorizontalAlign>Right</HorizontalAlign>
+																					<Width>3</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература1КонтекстноеМеню" id="2350"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература1РасширеннаяПодсказка" id="2351"/>
+																				</LabelField>
 																			</ChildItems>
 																		</UsualGroup>
 																		<UsualGroup name="Группа_Прогноз2" id="2283">
@@ -2467,7 +2455,7 @@
 																					<v8:content>Группа прогноз2</v8:content>
 																				</v8:item>
 																			</ToolTip>
-																			<Group>Vertical</Group>
+																			<Group>Horizontal</Group>
 																			<VerticalSpacing>Half</VerticalSpacing>
 																			<Representation>None</Representation>
 																			<ShowTitle>false</ShowTitle>
@@ -2476,50 +2464,37 @@
 																				<LabelField name="ПОЛЬЗ0_ВремяСуток2" id="2317">
 																					<DataPath>ПОЛЬЗ0_ВремяСуток2</DataPath>
 																					<TitleLocation>None</TitleLocation>
+																					<HorizontalAlign>Left</HorizontalAlign>
+																					<Width>6</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
 																					<ContextMenu name="ПОЛЬЗ0_ВремяСуток2КонтекстноеМеню" id="2318"/>
 																					<ExtendedTooltip name="ПОЛЬЗ0_ВремяСуток2РасширеннаяПодсказка" id="2319"/>
 																				</LabelField>
-																				<UsualGroup name="Группа_ДанныеПрогноза2" id="2345">
-																					<Title>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Данные прогноза</v8:content>
-																						</v8:item>
-																					</Title>
-																					<ToolTip>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Группа данные прогноза2</v8:content>
-																						</v8:item>
-																					</ToolTip>
-																					<Group>Horizontal</Group>
-																					<Representation>None</Representation>
-																					<ShowTitle>false</ShowTitle>
-																					<ExtendedTooltip name="Группа_ДанныеПрогноза2РасширеннаяПодсказка" id="2346"/>
-																					<ChildItems>
-																						<PictureField name="ПОЛЬЗ0_ПрогнозКартинка2" id="2326">
-																							<DataPath>ПОЛЬЗ0_ПрогнозКартинка2</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<Width>4</Width>
-																							<Height>1</Height>
-																							<HorizontalStretch>false</HorizontalStretch>
-																							<VerticalStretch>false</VerticalStretch>
-																							<PictureSize>Proportionally</PictureSize>
-																							<Border width="1">
-																								<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
-																							</Border>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка2КонтекстноеМеню" id="2327"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка2РасширеннаяПодсказка" id="2328"/>
-																						</PictureField>
-																						<LabelField name="ПОЛЬЗ0_ПрогнозТемпература2" id="2335">
-																							<DataPath>ПОЛЬЗ0_ПрогнозТемпература2</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<ToolTipRepresentation>None</ToolTipRepresentation>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература2КонтекстноеМеню" id="2336"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература2РасширеннаяПодсказка" id="2337"/>
-																						</LabelField>
-																					</ChildItems>
-																				</UsualGroup>
+																				<PictureField name="ПОЛЬЗ0_ПрогнозКартинка2" id="2326">
+																					<DataPath>ПОЛЬЗ0_ПрогнозКартинка2</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<Width>4</Width>
+																					<Height>1</Height>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
+																					<PictureSize>Proportionally</PictureSize>
+																					<Border width="1">
+																						<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
+																					</Border>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка2КонтекстноеМеню" id="2327"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка2РасширеннаяПодсказка" id="2328"/>
+																				</PictureField>
+																				<LabelField name="ПОЛЬЗ0_ПрогнозТемпература2" id="2335">
+																					<DataPath>ПОЛЬЗ0_ПрогнозТемпература2</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<ToolTipRepresentation>None</ToolTipRepresentation>
+																					<HorizontalAlign>Right</HorizontalAlign>
+																					<Width>3</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература2КонтекстноеМеню" id="2336"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература2РасширеннаяПодсказка" id="2337"/>
+																				</LabelField>
 																			</ChildItems>
 																		</UsualGroup>
 																		<UsualGroup name="Группа_Прогноз3" id="2285">
@@ -2535,7 +2510,7 @@
 																					<v8:content>Группа прогноз3</v8:content>
 																				</v8:item>
 																			</ToolTip>
-																			<Group>Vertical</Group>
+																			<Group>Horizontal</Group>
 																			<VerticalSpacing>Half</VerticalSpacing>
 																			<Representation>None</Representation>
 																			<ShowTitle>false</ShowTitle>
@@ -2544,50 +2519,37 @@
 																				<LabelField name="ПОЛЬЗ0_ВремяСуток3" id="2320">
 																					<DataPath>ПОЛЬЗ0_ВремяСуток3</DataPath>
 																					<TitleLocation>None</TitleLocation>
+																					<HorizontalAlign>Left</HorizontalAlign>
+																					<Width>6</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
 																					<ContextMenu name="ПОЛЬЗ0_ВремяСуток3КонтекстноеМеню" id="2321"/>
 																					<ExtendedTooltip name="ПОЛЬЗ0_ВремяСуток3РасширеннаяПодсказка" id="2322"/>
 																				</LabelField>
-																				<UsualGroup name="Группа_ДанныеПрогноза3" id="2347">
-																					<Title>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Данные прогноза</v8:content>
-																						</v8:item>
-																					</Title>
-																					<ToolTip>
-																						<v8:item>
-																							<v8:lang>ru</v8:lang>
-																							<v8:content>Группа данные прогноза3</v8:content>
-																						</v8:item>
-																					</ToolTip>
-																					<Group>Horizontal</Group>
-																					<Representation>None</Representation>
-																					<ShowTitle>false</ShowTitle>
-																					<ExtendedTooltip name="Группа_ДанныеПрогноза3РасширеннаяПодсказка" id="2348"/>
-																					<ChildItems>
-																						<PictureField name="ПОЛЬЗ0_ПрогнозКартинка3" id="2329">
-																							<DataPath>ПОЛЬЗ0_ПрогнозКартинка3</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<Width>4</Width>
-																							<Height>1</Height>
-																							<HorizontalStretch>false</HorizontalStretch>
-																							<VerticalStretch>false</VerticalStretch>
-																							<PictureSize>Proportionally</PictureSize>
-																							<Border width="1">
-																								<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
-																							</Border>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка3КонтекстноеМеню" id="2330"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка3РасширеннаяПодсказка" id="2331"/>
-																						</PictureField>
-																						<LabelField name="ПОЛЬЗ0_ПрогнозТемпература3" id="2338">
-																							<DataPath>ПОЛЬЗ0_ПрогнозТемпература3</DataPath>
-																							<TitleLocation>None</TitleLocation>
-																							<ToolTipRepresentation>None</ToolTipRepresentation>
-																							<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература3КонтекстноеМеню" id="2339"/>
-																							<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература3РасширеннаяПодсказка" id="2340"/>
-																						</LabelField>
-																					</ChildItems>
-																				</UsualGroup>
+																				<PictureField name="ПОЛЬЗ0_ПрогнозКартинка3" id="2329">
+																					<DataPath>ПОЛЬЗ0_ПрогнозКартинка3</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<Width>4</Width>
+																					<Height>1</Height>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<VerticalStretch>false</VerticalStretch>
+																					<PictureSize>Proportionally</PictureSize>
+																					<Border width="1">
+																						<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
+																					</Border>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозКартинка3КонтекстноеМеню" id="2330"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозКартинка3РасширеннаяПодсказка" id="2331"/>
+																				</PictureField>
+																				<LabelField name="ПОЛЬЗ0_ПрогнозТемпература3" id="2338">
+																					<DataPath>ПОЛЬЗ0_ПрогнозТемпература3</DataPath>
+																					<TitleLocation>None</TitleLocation>
+																					<ToolTipRepresentation>None</ToolTipRepresentation>
+																					<HorizontalAlign>Right</HorizontalAlign>
+																					<Width>3</Width>
+																					<HorizontalStretch>false</HorizontalStretch>
+																					<ContextMenu name="ПОЛЬЗ0_ПрогнозТемпература3КонтекстноеМеню" id="2339"/>
+																					<ExtendedTooltip name="ПОЛЬЗ0_ПрогнозТемпература3РасширеннаяПодсказка" id="2340"/>
+																				</LabelField>
 																			</ChildItems>
 																		</UsualGroup>
 																	</ChildItems>
