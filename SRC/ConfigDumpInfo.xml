@@ -6,7 +6,7 @@
 		<Metadata name="Catalog.ВидыКонтактнойИнформации.Predefined" id="a0436a1f-0dec-4751-be6f-8ceb103ad464.1c" configVersion="25bb17233339d95ee294af06c52db460b553bbee"/>
 		<Metadata name="Catalog.Организации" id="27f930c8-e383-4214-98f9-3b90a572f140" configVersion="3bbebb9f57eedbdf770b50e2c985ea5b2e6a91a4"/>
 		<Metadata name="CommonForm.ИнформационнаяПанель" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a" configVersion="a4929df6395f93a28734d1270236a511bd6e9163"/>
-		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="d310101f2e7af5ed329037dfc7e829ad354d08e0"/>
+		<Metadata name="CommonForm.ИнформационнаяПанель.Form" id="2f23b6ce-006d-47f8-a4de-a1521ef22b4a.0" configVersion="4c1d0b8b01f50321269501d81813de5a22977f16"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанели" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33" configVersion="2f9f8e72513022e60b1d7d128a533176f0096830"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанели.Module" id="51b7eb5b-cc07-4a72-af0f-dda4bb84aa33.0" configVersion="1fe3faf6a7a77a86952259913355dbc85b4cf06c"/>
 		<Metadata name="CommonModule.БлокиИнформационнойПанелиКлиентСервер" id="e2826258-fd37-46c3-bf61-1b6552e78769" configVersion="981bdc7989c45f8c488d1dc3766a409d9f8beea1"/>
@@ -14,7 +14,7 @@
 		<Metadata name="CommonModule.ИнформационнаяПанель" id="befddcfa-2b57-4e95-a484-ab9869680244" configVersion="b16fa88f4a636f342eaf4174d56bf209e41cc89d"/>
 		<Metadata name="CommonModule.ИнформационнаяПанель.Module" id="befddcfa-2b57-4e95-a484-ab9869680244.0" configVersion="c66b551a7cf3774ca293d8e1c36908052899ce55"/>
 		<Metadata name="CommonModule.Погод20_ОбщийМодуль" id="6558913e-a248-4d79-b17e-6e96ceec8141" configVersion="ec601b931f7ef16d4ac17264bd18469f3b9bc4a5"/>
-		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="af1615bb264305685f9578a5a8acbdb28a2eb22b"/>
+		<Metadata name="CommonModule.Погод20_ОбщийМодуль.Module" id="6558913e-a248-4d79-b17e-6e96ceec8141.0" configVersion="6eb19569f3eddcb6ed422853b0d5b47bf9e97142"/>
 		<Metadata name="CommonPicture.ДлительнаяОперация48" id="c174fffb-a8ef-41ab-9262-59b75dd8b3c4" configVersion="b9d279abb03dd98e91f01b70c3921e46291a0735"/>
 		<Metadata name="CommonPicture.КоллекцияПереключателейИнформационнойПанели" id="c5ec943b-8152-4792-9760-85b9aefc2909" configVersion="b5c531a8527e25e2fbbdc6653b96492f5ce43d07"/>
 		<Metadata name="CommonPicture.КоллекцияСообщенийСервиса" id="bb1da703-0f73-47f1-a767-9401964f3d2d" configVersion="d9d14cef8375382cebd98dc1b4da9bd359e1f79b"/>
