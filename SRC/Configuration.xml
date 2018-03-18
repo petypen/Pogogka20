@@ -46,7 +46,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>IS-V</Vendor>
-			<Version>2.0.01</Version>
+			<Version>2.0.005</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_10</CompatibilityMode>
@@ -65,6 +65,26 @@
 			<CommonPicture>ПодатьИдею</CommonPicture>
 			<CommonPicture>ФорумСервиса</CommonPicture>
 			<CommonPicture>ДлительнаяОперация48</CommonPicture>
+			<CommonPicture>Погод20_101</CommonPicture>
+			<CommonPicture>Погод20_201</CommonPicture>
+			<CommonPicture>Погод20_102</CommonPicture>
+			<CommonPicture>Погод20_202</CommonPicture>
+			<CommonPicture>Погод20_103</CommonPicture>
+			<CommonPicture>Погод20_203</CommonPicture>
+			<CommonPicture>Погод20_104</CommonPicture>
+			<CommonPicture>Погод20_204</CommonPicture>
+			<CommonPicture>Погод20_110</CommonPicture>
+			<CommonPicture>Погод20_210</CommonPicture>
+			<CommonPicture>Погод20_111</CommonPicture>
+			<CommonPicture>Погод20_211</CommonPicture>
+			<CommonPicture>Погод20_120</CommonPicture>
+			<CommonPicture>Погод20_220</CommonPicture>
+			<CommonPicture>Погод20_130</CommonPicture>
+			<CommonPicture>Погод20_230</CommonPicture>
+			<CommonPicture>Погод20_140</CommonPicture>
+			<CommonPicture>Погод20_240</CommonPicture>
+			<CommonPicture>Погод20_000</CommonPicture>
+			<CommonTemplate>Погод20_WeatherIcons</CommonTemplate>
 			<CommonModule>БлокиИнформационнойПанели</CommonModule>
 			<CommonModule>БлокиИнформационнойПанелиКлиентСервер</CommonModule>
 			<CommonModule>ИнформационнаяПанель</CommonModule>
